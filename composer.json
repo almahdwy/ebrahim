@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+           " Maharah\\Classes\\": "classes/",
+           " Maharah\\Interfaces\\": "interfaces/",
+           " Maharah\\Traits\\": "traits/"
+
+        }
+    }
+}
